@@ -1,3 +1,7 @@
+This is to mark my first success at pushing something into Github.
+
+- 12/3/2014 
+
 ## Introduction
 
 This assignment uses data from
